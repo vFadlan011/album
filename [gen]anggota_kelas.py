@@ -109,7 +109,7 @@ with a.html(lang="en"):
                     a.br()
                 with a.pre():
                     a("    ")
-                    a("<a href=\"https://github.com/vFadlan011/album-22/\" target=\"_blank\"><ion-icon name=\"logo-github\"></ion-icon>Github</a>")
+                    a("<a href=\"https://github.com/vFadlan011/album\" target=\"_blank\"><ion-icon name=\"logo-github\"></ion-icon>Github</a>")
                     a.br()
             a.br()
         with a.script(src="script.js"):
